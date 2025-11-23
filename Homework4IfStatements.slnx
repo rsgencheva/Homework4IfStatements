@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DebuggedScore/DebuggingPractice.csproj" />
+  <Project Path="../LoginSystem/LoginSystem.csproj" />
+  <Project Path="../StudentGrades/StudentGrades.csproj" />
+  <Project Path="AgeValidation.csproj" />
+</Solution>
